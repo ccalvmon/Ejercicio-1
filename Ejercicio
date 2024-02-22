@@ -1,9 +1,5 @@
 <header>
     <h2>Bienvenido a esta página web</h2>
-    <nav>
-      <ul>
-        <li><a href="">Dirección</a></li>
-        <li><a href="">Contacto</a></li>
       </ul>
     </nav>
   </header>
@@ -24,4 +20,5 @@
     <section>
       <span>Soleado</span>
       <p>Posibilidad nubosidad baja</p>
- 
+ <p>Lista enlaces
+ <ol><a href="https://www.aemet.es/es/eltiempo/prediccion/municipios/madrid-id28079">Aemet</a></ol>                                                  <ol><a href="https://www.eltiempo.es/madrid.html">El tiempo 14  días</a></ol>
