@@ -1,0 +1,27 @@
+<header>
+    <h2>Bienvenido a esta página web</h2>
+    <nav>
+      <ul>
+        <li><a href="">Dirección</a></li>
+        <li><a href="">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <h2>El tiempo</h2>
+    <article>
+      <h3>Jueves 22/02/2024</h3>
+      <p>Nubosidad baja, unos pocos chubascos breves; con brisa</p>
+<img src="https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d3ec0805d0ff1458b9b3ff0c07148178.png"
+    </article>
+    <article>
+      <h3>Viernes 23/02/2024</h3>
+      <p>Parcialmente despejado y destemplado; con brisa en la tarde, con algunos chubascos</p>
+    </article>
+  </section>
+  <section>
+    <h2>Predicción resto de días</h2>
+    <section>
+      <span>Soleado</span>
+      <p>Posibilidad nubosidad baja</p>
+ 
